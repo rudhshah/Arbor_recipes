@@ -1,0 +1,1 @@
+from ArborRecipe.views.index import show_index
